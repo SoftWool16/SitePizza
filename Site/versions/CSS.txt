@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+
+    height: 9000px;
+    background-color: rgba(178, 34, 34, 0.1);
+}
+
+.main-header{
+    height: 100%;
+    background-color: #4273cf11;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    align-items: self-start;
+    justify-content: space-between;
+    position: relative;
+
+    
+}
+.main-text{
+    height: 100%;
+    background-color: #4273cf11;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    align-items: self-start;
+    justify-content: space-between;
+}
+
+.size-borrowing{
+    height: 100%;
+    width: 100%;
+}
+.size-block{
+    height: 1000px;
+    width: 100%;
+}
+.size-big_block{
+    height: 1500px;
+    width: 100%;
+}
+.size-image{
+    /*height: 100%;*/
+    width: 100%;
+    sizes-sizes 
+
+}
+.block-container {
+    display: flex; /* Создаем flex-контейнер */
+    justify-content: space-around; /* Распределение блоков по горизонтали */
+}
+.block-part {
+    width: 30%; /* Ширина каждого блока */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Тень */
+}
+
+.text-ctyle-classic{
+    padding: 20px;
+    text-align: center; /* Центрирование текста */
+    background-color: #ffffff; /* Цвет фона блоков */
+}
+.second_Block{
+    padding: 40px 0px 10px 0px;
+
+}
+.frame{
+    border: 5px solid #0b385f;
+}
+
+.image_background {
+    background-image: url("C:/Users/Bill/Desktop/Site2024_0611/static/img/start_page/background.PNG");
+    background-color: #000000ce;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    background-size: cover;
+}
+/*.main-header:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,.5);
+    z-index: 2;
+}*/
+
+.center{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto
+}
+
+h1 {
+    font-size: 24px;
+    color: rgb(179, 39, 21);
+}
+
+h2 {
+    font-size: 24px;
+    color: rgb(97, 107, 91);
+
+}
+
+h3 {
+    font-size: 24px;
+    color: rgb(255, 255, 255); 
+}
+
+
+
+.block_center-vertical {
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+} 
+.main-grid {
+    display: grid; 
+    place-items: top;
+}
+
+.block-grid {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: 70%;
+    gap: 50px 20px;
+}
+
+.button {
+    padding: 0.5em 1.5em; /* Поля по вертикали и горизонтали */
+    background-image: linear-gradient(rgba(76,176,80,0.5),  rgb(76,176,80),  rgba(76,176,80, 0.5)); 
+    border-color: rgb(76,176,80);
+        font-size: 1.5em; /* Размер текста */
+    text-transform: uppercase; /* Все буквы заглавные */
+    color: rgb(255, 255, 255); /* Цвет текста */
+    border: 2px solid rgb(76,176,80); /* Параметры рамки */
+    border-radius: 0.4em; /* Радиус скругления */
+    color: rgb(226, 79, 59);
+    color: rgb(179, 39, 21);
+    color: rgb(44, 34, 32);
+    color: rgb(83, 76, 74);
+    color: rgb(49, 151, 104);
+    color: rgb(97, 107, 91);
+    color: rgb(255, 255, 255); 
+}
+
+

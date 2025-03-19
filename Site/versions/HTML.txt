@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сайт 2024</title>
+
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    <header>
+        <div class="main-header size-borrowing">
+            <div class="size-borrowing frame main-grid">
+                <div class="size-block image_background frame">
+                    <div class="size-borrowing frame block_center-vertical ">
+                        <div class="frame">
+                            <h1 class="center">
+                                радиогонки для радиолюбителей
+                            </h1>
+                            <h3 class="center">
+                                *описание*
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="size-block frame ">
+                    <div class="frame block-container size-borrowing second_Block">
+                        <div class="frame block-part text-ctyle-classic">
+                            <img src="C:\Users\Bill\Desktop\Site2024_0611\static\img\Снимок гоночная машинка.PNG" 
+                            class="frame size-image"/>
+                            
+                            <h1 class="center">
+                                Гонки на скоростных машинках
+                            </h1>
+                            <h3 class="center">
+                                Разные трассы, соревнования между учстниками в категорях уличные гонки и гонки на трассе
+                            </h3>
+                        </div>
+                        <div class="frame block-part text-ctyle-classic">
+                            <img src="C:\Users\Bill\Desktop\Site2024_0611\static\img\Снимок дрифт машинка.PNG" 
+                            class="frame size-image"/>
+                            <h1 class="center">
+                                Дрифт соревнования
+                            </h1>
+                            <h3 class="center">
+                                Дрифт соревнования на подготовленной трассе, слалом.                            
+                            </h3>                        
+                        </div>
+                        <div class="frame block-part text-ctyle-classic">
+                            <img src="C:\Users\Bill\Desktop\Site2024_0611\static\img\Снимок раллийная машинка.PNG" 
+                            class="frame size-image"/>
+                            <h1 class="center">
+                                Грязное ралли
+                            </h1>
+                            <h3 class="center">
+                                Грязные соревнования на увеличенных машинках по грунтовой трассе
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="size-block frame">
+                    <div class="frame block_center-vertical size-borrowing">
+                        <div class="text-ctyle-classic">
+                            <h1 class="center ">
+                                Победители прошлых сезонов
+                            </h1>
+                            <h3 class="center">
+                                Ниже представлены победители в соответствующих номинациях
+                            </h3>
+                            <div class="frame block-container size-borrowing">
+                                <div class="frame block-part text-ctyle-classic">
+                                    <img src="C:\Users\Bill\Desktop\Site2024_0611\static\img\Снимок гоночная машинка.PNG" 
+                                    class="frame size-image"/>
+                                    <h1 class="center">
+                                        Иван Рыбаков
+                                    </h1>
+                                    <h2 class="center">
+                                        Гонки на трассе
+                                    </h2>
+                                </div>
+                                <div class="frame block-part text-ctyle-classic">
+                                    <img src="C:\Users\Bill\Desktop\Site2024_0611\static\img\Снимок дрифт машинка.PNG" 
+                                    class="frame size-image"/>
+                                    <h1 class="center">
+                                        Анастасия Малакян
+                                    </h1>
+                                    <h2 class="center">
+                                        Дрифт
+                                    </h2>                
+                                </div>
+                            </div>
+                            <div class="frame block-container size-borrowing">
+                                <div class="frame block-part text-ctyle-classic">
+                                    <img src="C:\Users\Bill\Desktop\Site2024_0611\static\img\Снимок гоночная машинка.PNG" 
+                                    class="frame size-image"/>
+                                    <h1 class="center">
+                                        Семен Алмазов
+                                    </h1>
+                                    <h2 class="center">
+                                        Грязное ралли
+                                    </h2> 
+                                </div>
+                                <div class="frame block-part text-ctyle-classic">
+                                    <img src="C:\Users\Bill\Desktop\Site2024_0611\static\img\Снимок дрифт машинка.PNG" 
+                                    class="frame size-image"/>
+                                    <h1 class="center">
+                                        Валерий Гречин
+                                    </h1>
+                                    <h2 class="center">
+                                        Уличные гонки
+                                    </h2>                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="size-big_block frame">
+                    <div class="frame block_center-vertical size-borrowing">
+                        <div class="text-ctyle-classic">
+                            <h1 class="center ">
+                                Присоединяйтесь
+                            </h1>
+                            <h3 class="center">
+                                *текст*
+                            </h3>
+                             
+                        </div>
+                    </div>
+                </div>
+                <div class="size-block frame">
+                    <div class="frame block_center-vertical size-borrowing">
+                        <div class="text-ctyle-classic">
+                            <h1 class="center ">
+                                Как попасть к нам?
+                            </h1>
+                            <div class="frame block-container size-borrowing">
+                                <div class="frame block-part text-ctyle-classic">
+                                    <img src="C:\Users\Bill\Desktop\Site2024_0611\static\img\Снимок гоночная машинка.PNG" 
+                                    class="frame size-image"/>
+                                    <h1 class="center">
+                                        *пункт 1*
+                                    </h1>
+                                </div>
+                                <div class="frame block-part text-ctyle-classic">
+                                    <img src="C:\Users\Bill\Desktop\Site2024_0611\static\img\Снимок дрифт машинка.PNG" 
+                                    class="frame size-image"/>
+                                    <h1 class="center">
+                                        *пункт 2*
+                                    </h1>                       
+                                </div>
+                                <div class="frame block-part text-ctyle-classic">
+                                    <img src="C:\Users\Bill\Desktop\Site2024_0611\static\img\Снимок дрифт машинка.PNG" 
+                                    class="frame size-image"/>
+                                    <h1 class="center">
+                                        *пункт 3*
+                                    </h1>                       
+                                </div>
+                            </div>
+                             
+                        </div>
+                    </div>
+                </div>
+                <div class="size-block frame">
+                    <div class="frame block_center-vertical size-borrowing">
+                        <div class="text-ctyle-classic">
+                            <h1 class="center ">
+                                Участия в гонках: условия и рекомендации
+                            </h1>
+                            <h3 class="center">
+                                На гонках присутствуют несколько категорий как с маленькими так и с большими трассами. Вы можете модернизировать Вашу машинку для участия в больших заездах: на трассе установлены радио усилители, это позволяет увеличить радиус действия любого пульта управления на неограниченное расстояние.
+                                Если ваша машинка сделана самостоятельно, вы можете присоединить Ваш протокол обмена данными к нашей стандартизированной системе. Иначе наши специалисты могут провести Вам диагностику и Ваш протокол так же будет подключён при успешном вмешательстве и отсутствие противопоказаний по типу вашего передатчика и приемника.
+                                
+                                На гонках с трассой в радиусе действия вашего пульта управления вы можете использовать без улучшений.
+                                
+                                О том как работает на протокол обмена и в чем заключается суть перехода Вы можете узнать после регистрации.                            </h3>
+                             
+                        </div>
+                    </div>
+                </div>
+                <div class="size-block frame">
+                    <div class="frame block_center-vertical size-borrowing">
+                        <button class="button" type="button" name="popup-button">Принять участие</button>
+                    </div>
+                </div>
+                <div class="size-big_block frame">
+
+                </div>
+            </div>
+        </div> 
+    </header>
+</body>
+</html>
